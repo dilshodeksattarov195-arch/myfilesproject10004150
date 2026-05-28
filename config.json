@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervender",
+        "uuid": 20459500,
+        "checksum": "actxy"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
